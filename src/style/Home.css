@@ -1,0 +1,113 @@
+
+
+.card-group{
+    margin-left: -30em;
+    width: 100em;
+}
+.card{
+    height: 35em;
+   
+}
+.card-group img{
+   margin: 2em 2em 2em 5em;
+}
+
+.container{
+    margin-top: 8rem;
+    height: 95em;
+    
+}
+.form-label{
+    width: 80px;
+    border-radius: 2px;
+}
+.form-control{
+    width: 100px;
+}
+button{
+    width: 320px;
+}
+.form a{
+
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.container label{
+    width: 100px;
+}
+.container input{
+    width: 20em;
+}
+.form-check input{
+    width: 10px;
+
+}
+.login1 a{
+    font-size: 30px;
+    color:rgb(20, 65, 68);
+    font-weight: 500;
+
+}
+.konto p{
+    margin-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+}
+.login2 h3{
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    margin-right: 50px;
+    margin-bottom: 1.8rem;
+}
+.colors{
+    display: flex;
+    justify-content:space-around;
+  
+    padding: 2rem;
+    margin-left: 12rem;
+    margin-right: 12rem;
+    border-radius: 1.2rem;
+}
+.flyer{
+    height: 40rem;
+    width: 25rem;
+}
+.image img{
+    height: 40rem;
+    width: auto;
+}
+.color{
+    font-size: 1.8rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.head{
+    font-size: 1.8rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+.test{
+    display: flex;
+    justify-content: space-around;
+    height: 20rem;
+    width: 10rem;
+    margin-bottom: 5rem;
+}
+.product-list{
+    display: flex;
+    flex-direction: row;
+    margin: 5px 10px 0px 355px;
+}
+.card{
+    width: 35em;
+    height: 48em;
+    margin: 5px 5px 5px 5px;
+}
+    
+    .
+.image{
+    width: 30em;
+    height: 35em;
+    margin: 0px 0px 0px 120px;
+}
